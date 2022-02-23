@@ -1,0 +1,42 @@
+#idSamantha {
+    color: brown;
+}
+
+.idzagtil {
+    color: yellowgreen;
+
+}
+
+body {
+    background-color: white;
+}
+
+ul li {
+    color: blueviolet;
+}
+
+ol h2 li {
+    color: green;
+}
+
+ul strong li {
+    color: black;
+}
+
+ol p {
+    color: palevioletred;
+}
+
+ol p strong {
+    color: blueviolet;
+}
+
+/*
+dashed -----
+*/
+table,
+th,
+td {
+    border: 5px dashed red;
+    border-collapse: collapse;
+}
